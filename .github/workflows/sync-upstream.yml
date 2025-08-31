@@ -1,0 +1,28 @@
+name: Sync from upstream
+
+on:
+  schedule:
+    - cron: '0 3 * * *'   # every day at 03:00 UTC
+  workflow_dispatch:      # allow manual trigger via GitHub UI
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+      - name: Add upstream
+        run: |
+          git remote add upstream https://github.com/blackmatrix7/ios_rule_script.git
+          git fetch upstream
+      - name: Merge upstream into current branch
+        run: |
+          git checkout master
+          git merge upstream/master --allow-unrelated-histories -m "Sync from upstream"
+          git push origin master
