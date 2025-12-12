@@ -15,17 +15,17 @@ ChinaMax排除相关IP规则版本
 
 ## 规则统计
 
-最后更新时间：2025-09-14 02:10:08
+最后更新时间：2025-12-10 02:10:05
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| HOST | 277  | 
+| HOST | 289  | 
 | HOST-KEYWORD | 13  | 
-| HOST-SUFFIX | 116958  | 
+| HOST-SUFFIX | 116987  | 
 | HOST-WILDCARD | 1  | 
 | USER-AGENT | 65  | 
-| TOTAL | 117314  | 
+| TOTAL | 117355  | 
 
 
 ## QuantumultX 
@@ -363,8 +363,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/cstnet6.txt
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/drpeng.txt
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/drpeng6.txt
-- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/tietong.txt
-- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/tietong6.txt
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/unicom.txt
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/unicom6.txt
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/WoLai.list

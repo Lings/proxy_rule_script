@@ -12,19 +12,19 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2025-09-14 02:10:52
+最后更新时间：2025-12-12 02:11:32
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 277  | 
+| DOMAIN | 289  | 
 | DOMAIN-KEYWORD | 11  | 
-| DOMAIN-SUFFIX | 116851  | 
+| DOMAIN-SUFFIX | 116879  | 
 | IP-ASN | 1  | 
-| IP-CIDR | 8085  | 
-| IP-CIDR6 | 12184  | 
+| IP-CIDR | 8256  | 
+| IP-CIDR6 | 12053  | 
 | USER-AGENT | 65  | 
-| TOTAL | 137474  | 
+| TOTAL | 137554  | 
 
 
 ## Loon 
@@ -371,8 +371,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/cstnet6.txt
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/drpeng.txt
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/drpeng6.txt
-- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/tietong.txt
-- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/tietong6.txt
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/unicom.txt
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/unicom6.txt
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/WoLai.list

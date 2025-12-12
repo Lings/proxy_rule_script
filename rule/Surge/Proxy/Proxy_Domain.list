@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-09-08 02:08:01
+# UPDATED: 2025-12-08 02:08:03
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6500
+# DOMAIN-SUFFIX: 6554
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6640
+# TOTAL: 6694
 .000webhost.com
 .030buy.com
 .0rz.tw
@@ -150,6 +150,7 @@
 .91vps.club
 .92ccav.com
 .991.com
+.996.icu
 .99btgc01.com
 .99cn.info
 .9bis.com
@@ -194,6 +195,7 @@
 .adcex.com
 .addictedtocoffee.de
 .adelaidebbs.com
+.adguard-vpn.com
 .adguard.org
 .admob.com
 .adobe.com
@@ -222,6 +224,7 @@
 .ahcdn.com
 .ai-kan.net
 .ai-wen.net
+.ai.dev
 .aiosearch.com
 .aiph.net
 .airasia.com
@@ -362,6 +365,7 @@
 .aolnews.com
 .aomedia.org
 .aomiwang.com
+.aoxvpn.com
 .ap.org
 .apache.org
 .apartmentratings.com
@@ -434,6 +438,7 @@
 .asiaharvest.org
 .asianage.com
 .asianews.it
+.asianfanfics.com
 .asiansexdiary.com
 .asianspiss.com
 .asianwomensfilm.de
@@ -595,6 +600,7 @@
 .bet365.com
 .betaclouds.net
 .betfair.com
+.bettergpt.chat
 .betterhash.net
 .betternet.co
 .bettervpn.com
@@ -832,6 +838,7 @@
 .c-est-simple.com
 .c-span.org
 .c-spanvideo.org
+.c.gle
 .c.mi.com
 .c100tibet.org
 .c2cx.com
@@ -861,6 +868,7 @@
 .cams.org.sg
 .canadameet.com
 .cantonese.asia
+.canva.com
 .canyu.org
 .cao.im
 .caobian.info
@@ -903,6 +911,7 @@
 .ccdtr.org
 .ccfd.org.tw
 .cchere.com
+.cchostvps.xyz
 .ccim.org
 .cclife.ca
 .cclife.org
@@ -967,8 +976,10 @@
 .chaos.social
 .chapm25.com
 .character.ai
+.chat.com
 .chat.openai.com
 .chatnook.com
+.chatpdf.com
 .chaturbate.com
 .checkgfw.com
 .chengmingmag.com
@@ -1123,6 +1134,7 @@
 .cloudflare-dns.com
 .cloudflare-ipfs.com
 .cloudflare.com
+.cloudflarestatus.com
 .cloudfront.net
 .cloudfunctions.net
 .cloudgarage.jp
@@ -1248,6 +1260,7 @@
 .ct.org.tw
 .ctao.org
 .ctfriend.net
+.ctinets.com
 .ctinews.com
 .ctitv.com.tw
 .ctowc.org
@@ -1328,6 +1341,7 @@
 .daozhongxing.org
 .darktech.org
 .darktoy.net
+.darmau.co
 .darpa.mil
 .darrenliuwei.com
 .dartlang.org
@@ -1370,6 +1384,7 @@
 .demo.opera-mini.net
 .democrats.org
 .demosisto.hk
+.deno.com
 .deno.dev
 .depositphotos.com
 .derekhsu.homeip.net
@@ -1453,8 +1468,8 @@
 .docker.com
 .docker.io
 .dockerhub.com
+.dockerstatus.com
 .docs.cfw.lbyczf.com
-.docs.deno.com
 .docs.new
 .doctorvoice.org
 .documentingreality.com
@@ -1860,6 +1875,7 @@
 .figprayer.com
 .fileflyer.com
 .fileforum.com
+.files.oaiusercontent.com
 .files2me.com
 .fileserve.com
 .filesor.com
@@ -1889,6 +1905,7 @@
 .flecheinthepeche.fr
 .fleshbot.com
 .fleursdeslettres.com
+.flexclip.com
 .flexibits.com
 .flexpool.io
 .flgg.us
@@ -1902,6 +1919,7 @@
 .flitto.com
 .flnet.org
 .flog.tw
+.flowgpt.com
 .flowhongkong.net
 .flypool.org
 .flyvpn.com
@@ -1921,6 +1939,7 @@
 .fooooo.com
 .footwiball.com
 .forbes.com
+.forefront.ai
 .foreignaffairs.com
 .foreignpolicy.com
 .form.new
@@ -1974,6 +1993,8 @@
 .freefq.com
 .freefuckvids.com
 .freegao.com
+.freegpt.es
+.freegpt.tech
 .freehongkong.org
 .freeilhamtohti.org
 .freekazakhs.org
@@ -2105,6 +2126,7 @@
 .gardennetworks.org
 .garena.com
 .gartlive.com
+.garudalinux.org
 .gate-project.com
 .gate.io
 .gatecoin.com
@@ -2308,6 +2330,7 @@
 .great-firewall.com
 .great-roc.org
 .greatfire.org
+.greatfirevpn.com
 .greatfirewall.biz
 .greatfirewallofchina.net
 .greatfirewallofchina.org
@@ -2396,6 +2419,7 @@
 .have8.com
 .hbg.com
 .hbo.com
+.hbomax.com
 .hcaptcha.com
 .hclips.com
 .hdlt.me
@@ -2655,6 +2679,7 @@
 .hxwk.org
 .hxwq.org
 .hybrid-analysis.com
+.hyperbeam.com
 .hyperrate.com
 .hypothes.is
 .hyread.com.tw
@@ -2798,6 +2823,7 @@
 .internet.org
 .internetfreedom.org
 .internetpopculture.com
+.interseclab.org
 .inthenameofconfuciusmovie.com
 .investing.com
 .invidio.us
@@ -2943,7 +2969,6 @@
 .jgoodies.com
 .jiangweiping.com
 .jiaoyou8.com
-.jichangtj.com
 .jiehua.cz
 .jiehua.tv
 .jiepang.com
@@ -3176,6 +3201,7 @@
 .letou.com
 .letscorp.net
 .level-plus.net
+.lexica.art
 .lflink.com
 .lflinkup.com
 .lflinkup.net
@@ -3191,6 +3217,7 @@
 .liberal.org.hk
 .libertysculpturepark.com
 .libertytimes.com.tw
+.library-access.sk
 .libraryinformationtechnology.com
 .libredd.it
 .libsyn.com
@@ -3221,6 +3248,7 @@
 .linkuswell.com
 .linode.com
 .linpie.com
+.linux.do
 .linux.org.hk
 .linuxtoy.org
 .lionsroar.com
@@ -3257,6 +3285,7 @@
 .lkcn.net
 .llnwd.net
 .llss.me
+.lmarena.ai
 .lmsys.org
 .load.to
 .lobsangwangyal.com
@@ -3308,7 +3337,6 @@
 .lzjscript.com
 .lzmtnews.org
 .m-sport.co.uk
-.m-team.cc
 .m.me
 .m.plixi.com
 .m.slandr.net
@@ -3395,6 +3423,7 @@
 .mcaf.ee
 .mcfog.com
 .mcreasite.com
+.mcusercontent.com
 .md-t.org
 .me.me
 .meansys.com
@@ -3467,12 +3496,14 @@
 .microsoft-falcon.io
 .microsoft.com
 .microsoftapp.net
+.microsoftpersonalcontent.com
 .microsofttranslator.com
 .microvpn.com
 .middle-way.net
 .mihk.hk
 .mihr.com
 .mihua.org
+.mij.rip
 .mikanani.me
 .mikesoltys.com
 .mikocon.com
@@ -3527,7 +3558,9 @@
 .mixpod.com
 .mixx.com
 .mizzmona.com
+.mji.rip
 .mjib.gov.tw
+.mjj.rip
 .mk5000.com
 .mlc.ai
 .mlcool.com
@@ -3708,6 +3741,7 @@
 .name.com
 .namgyal.org
 .namgyalmonastery.org
+.namu.wiki
 .nanopool.org
 .nanyang.com
 .nanyangpost.com
@@ -3845,6 +3879,7 @@
 .nintendo.com
 .nintendo.net
 .ninth.biz
+.nirsoft.net
 .nitter.cc
 .nitter.net
 .niu.moe
@@ -3964,6 +3999,7 @@
 .ocry.com
 .ocsp.int-x3.letsencrypt.org
 .october-review.org
+.octocaptcha.com
 .oculus.com
 .oculuscdn.com
 .odysee.com
@@ -4101,6 +4137,7 @@
 .paljorpublications.com
 .palmislife.com
 .paltalk.com
+.palworldgame.com
 .pancakeswap.finance
 .pandafan.pub
 .pandapow.co
@@ -4200,6 +4237,7 @@
 .picgo.net
 .picidae.net
 .picjs.xyz
+.picsart.com
 .picturedip.com
 .picturesocial.com
 .picuki.com
@@ -4318,6 +4356,7 @@
 .primevideo.com
 .printfriendly.com
 .prism-break.org
+.prismic.io
 .prisoneralert.com
 .pritunl.com
 .privacybox.de
@@ -4522,6 +4561,7 @@
 .releaseinternational.org
 .religionnews.com
 .religioustolerance.org
+.rentry.co
 .renyurenquan.org
 .resilio.com
 .resistchina.org
@@ -4595,6 +4635,7 @@
 .rumble.com
 .runbtx.com
 .rushbee.com
+.rustdesk.com
 .rusvpn.com
 .ruten.com.tw
 .rutracker.net
@@ -4874,6 +4915,7 @@
 .sndcdn.com
 .sneakme.net
 .snowlionpub.com
+.sntp.uk
 .sobees.com
 .soc.mil
 .social.edu.ci
@@ -4903,6 +4945,7 @@
 .solana.com
 .solidaritetibet.org
 .solidfiles.com
+.solscan.io
 .solv.finance
 .somee.com
 .sonatype.org
@@ -5148,6 +5191,7 @@
 .taiwanus.net
 .taiwanyes.com
 .talk853.com
+.talkatone.com
 .talkboxapp.com
 .talkcc.com
 .talkonly.net
@@ -5163,6 +5207,7 @@
 .tapatalk.com
 .tapbots.com
 .tapbots.net
+.taptap.io
 .taptap.tw
 .taragana.com
 .tardigrade.io
@@ -5220,12 +5265,14 @@
 .telegraph.co.uk
 .telesco.pe
 .tellme.pw
+.temu.com
 .tenacy.com
 .tenor.com
 .tensorflow.org
 .tenzinpalmo.com
 .terabox.com
 .teraboxcdn.com
+.terobox.com
 .tew.org
 .textnow.com
 .textnow.me
@@ -5513,6 +5560,7 @@
 .truesocial.media
 .trulyergonomic.com
 .trustasiassl.com
+.trustwallet.com
 .truth101.co.tv
 .truthontour.org
 .truthsocial.com
@@ -5961,6 +6009,7 @@
 .vpnvip.com
 .vpnworldwide.com
 .vpser.net
+.vpsxb.net
 .vraiesagesse.net
 .vrchat.com
 .vrmtr.com
@@ -6040,6 +6089,7 @@
 .webrtc.org
 .webrush.net
 .webs-tv.net
+.websdr.org
 .website.new
 .websitepulse.com
 .websnapr.com
@@ -6279,6 +6329,7 @@
 .xn--11xs86f.icu
 .xn--4gq171p.com
 .xn--90wwvt03e.com
+.xn--9iqy04a7fi01l.com
 .xn--9pr62r24a.com
 .xn--czq75pvv1aj5c.org
 .xn--i2ru8q2qg.com
@@ -6286,6 +6337,7 @@
 .xn--noss43i.com
 .xn--oiq.cc
 .xn--p8j9a0d9c9a.xn--q9jyb4c
+.xn--u2u927b.com
 .xnpool.com
 .xnxx-cdn.com
 .xnxx.com
@@ -6428,6 +6480,7 @@
 .z-lib.gl
 .z-lib.io
 .z-lib.org
+.z-library.ec
 .z-library.sk
 .zacebook.com
 .zalmos.com
@@ -6435,6 +6488,7 @@
 .zannel.com
 .zaobao.com
 .zaobao.com.sg
+.zaochenbao.com
 .zaozon.com
 .zapto.org
 .zattoo.com
